@@ -254,9 +254,9 @@ This project demonstrates the integration of concepts from:
 
 
 
-Subhashini G
-Nanthitha P
-Lavanya Gayathri V
+Subhashini G,
+Nanthitha P,
+Lavanya Gayathri V.
 
 
 Bachelor's Project – Smart Parking Application
