@@ -497,5 +497,3 @@ API_KEY = os.getenv('THINGSPEAK_API_KEY_A')
 
 ---
 
-**Last Updated**: May 29, 2026  
-**Version**: 1.0 (Refactored & Tested)
