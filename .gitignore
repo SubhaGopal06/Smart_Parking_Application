@@ -1,0 +1,20 @@
+venv/
+.vscode/
+files/
+credential.txt
+sample.py
+firebase.json
+__pycache__
+
+# Firebase credentials
+keyfile.json
+sps.json
+spsm.json
+smartparkingsystem.json
+slot1.json
+slot2.json
+slot3.json
+slot4.json
+
+# Environment files
+.env
